@@ -5,8 +5,10 @@ namespace Tourze\CouponContracts\Tests\Mock;
 use Tourze\CouponContracts\CouponInterface;
 
 /**
- * CouponInterface 的模拟实现类
+ * 测试用的优惠券模拟实现
+ *
+ * @internal
  */
-class MockCoupon implements CouponInterface
+final class MockCoupon implements CouponInterface
 {
-} 
+}

@@ -5,8 +5,10 @@ namespace Tourze\CouponContracts\Tests\Mock;
 use Tourze\CouponContracts\CodeInterface;
 
 /**
- * CodeInterface 的模拟实现类
+ * 测试用的编码模拟实现
+ *
+ * @internal
  */
-class MockCode implements CodeInterface
+final class MockCode implements CodeInterface
 {
-} 
+}
